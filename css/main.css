@@ -78,7 +78,7 @@ body{
 }
 .height-max{
   min-height: calc(100vh - 76px);
-  background:url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2023_Ferrari_Purosangue.jpg/420px-2023_Ferrari_Purosangue.jpg');
+  background:url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2023_Ferrari_Purosangue.jpg/1280px-2023_Ferrari_Purosangue.jpg');
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
